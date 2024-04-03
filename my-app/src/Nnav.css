@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 5px;
+}
+.bars{
+    height: 20px;
+    width: 20px;
+    /* border: 1px solid black; */
+    
+    
+}
